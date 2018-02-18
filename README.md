@@ -1,0 +1,1 @@
+This is a Cordova app with small example of using camera plugin.
